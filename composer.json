@@ -1,0 +1,21 @@
+{
+    "name": "senior2ral/pmf",
+    "description": "php mvc framework",
+    "type": "library",
+    "version": "2.1",
+    "autoload": {
+        "psr-4": {
+            "Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tural Ilyasov",
+            "email": "senior2ral@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    }
+}
